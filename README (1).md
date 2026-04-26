@@ -15,15 +15,15 @@ Con el sistema podés:
 - Recibir alertas cuando un producto está por agotarse
 - Consultar el historial de entradas y salidas de mercancía
 - Buscar productos por nombre o categoría
-- Acceder con usuario y contraseña (solo el administrador)
+- Acceder con usuario y contraseña 
 
 ---
 
 ## Tecnologías usadas
 
-- Python 3.11
-- Django 4.x
-- SQLite (base de datos)
+- Python 
+- Django 
+- SQLite 
 - HTML5 / CSS3
 - Bootstrap 5
 
@@ -42,7 +42,7 @@ cd Sistema-de-inventario-para-tiendas-peque-as
 
 ```bash
 python -m venv env
-source env/bin/activate        # En Windows: env\Scripts\activate
+source env/bin/activate      
 pip install -r requirements.txt
 ```
 
